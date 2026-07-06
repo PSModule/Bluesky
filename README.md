@@ -1,6 +1,6 @@
 # Bluesky
 
-Bluesky is intended to be a PowerShell module for interacting with Bluesky.
+Bluesky is intended to be a PowerShell module for interacting with the [Bluesky](https://bsky.app/) social network and AT Protocol APIs.
 
 ## Status
 
